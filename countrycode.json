@@ -4248,24 +4248,6 @@
 		"Area KM2": "fr-WF"
 	},
 	{
-		"Country Name": " Western Sahara",
-		"ISO2": "EH",
-		"ISO3": "ESH",
-		"Top Level Domain": "eh",
-		"FIPS": "WI",
-		"ISO Numeric": "732",
-		"GeoNameID": "2461445",
-		"E164": "212",
-		"Phone Code": "212",
-		"Continent": "Africa",
-		"Capital": "El-Aaiun",
-		"Time Zone in Capital": "Africa/El_Aaiun",
-		"Currency": "Dirham",
-		"Language Codes": "ar",
-		"Languages": "mey",
-		"Area KM2": "Standard Arabic (national)"
-	},
-	{
 		"Country Name": " Yemen",
 		"ISO2": "YE",
 		"ISO3": "YEM",
